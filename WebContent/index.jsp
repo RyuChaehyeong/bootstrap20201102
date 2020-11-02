@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<!--cttl+shift+/  --> 
 <table class="table">
 	<tr>
 		<th>Lorem.</th>

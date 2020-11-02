@@ -50,12 +50,54 @@
     <div class="card-body">
       <h4 class="card-title">Jane Doe</h4>
       <p class="card-text">Some example text some example text. Jane Doe is an architect and engineer</p>
-      <a href="#" class="btn btn-primary">See Profile</a>
+      <a href="#" class="btn btn-primary stretched-link">See Profile</a> <!--whole card link  -->
     </div>
     <img class="card-img-bottom" src="img_avatar6.png" alt="Card image" style="width:100%">
   </div>
 
 </div>
+
+<div class="card-group mt-5 mx-5 card-columns">
+	<div class="card bg-primary">
+		<div class="card-body text-center">
+			<p class="card-text">Lorem ipsum dolor sit amet.</p>
+		</div>
+	</div>
+	<div class="card bg-warning">
+		<div class="card-body text-center">
+			<p class="card-text">Lorem ipsum dolor sit amet.</p>
+		</div>
+	</div>
+	<div class="card bg-success">
+    	<div class="card-body text-center">
+      		<p class="card-text">Some text inside the third card</p>
+    	</div>
+  	</div>
+  	<div class="card bg-danger" >
+    	<div class="card-body text-center">
+      		<p class="card-text">Some text inside the fourth card</p>
+    	</div>
+ 	 </div>
+	
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 </body>
